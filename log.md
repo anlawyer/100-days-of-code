@@ -8,22 +8,18 @@
 
 **Link to work:** [My FFC profile, I think.](https://www.freecodecamp.org/fcc34b34fa9-d07a-440a-a36b-644546dfd41a)
 
-<!-- ### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: February 2, 2018
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Getting down in portfolio town.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:**
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to work:** [My portfolio](http://www.alisoncodes.com)
 
+### Day 2: February 3, 2018
 
-### Day 1: June 27, Monday
+**Today's Progress**: Getting down in portfolio town, part 2.
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Thoughts:**
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
+**Link to work:** [My portfolio](http://www.alisoncodes.com)
