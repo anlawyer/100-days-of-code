@@ -23,3 +23,11 @@
 **Thoughts:**
 
 **Link to work:** [My portfolio](http://www.alisoncodes.com)
+
+### Day 3: February 4, 2018
+
+**Today's Progress**: Getting down in portfolio town, part 3.
+
+**Thoughts:**: Added cards instead of the open columns style I had earlier. Still not 100% satisfied with the design. Lots more work to do, especially to add individual pages for bigger projects.
+
+**Link to work:** [My portfolio](http://www.alisoncodes.com)
