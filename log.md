@@ -31,3 +31,11 @@
 **Thoughts:**: Added cards instead of the open columns style I had earlier. Still not 100% satisfied with the design. Lots more work to do, especially to add individual pages for bigger projects.
 
 **Link to work:** [My portfolio](http://www.alisoncodes.com)
+
+### Day 4: February 5, 2018
+
+**Today's Progress**: Updated hangman game to ES6.
+
+**Thoughts:**: More to do regarding gameplay and logic... still some bugs to squash. Interesting to see how far I've come since my first game I made back in July '17!
+
+**Link to work:** [Hangman](https://anlawyer.github.io/Hangman-Game/)
