@@ -39,3 +39,11 @@
 **Thoughts:**: More to do regarding gameplay and logic... still some bugs to squash. Interesting to see how far I've come since my first game I made back in July '17!
 
 **Link to work:** [Hangman](https://anlawyer.github.io/Hangman-Game/)
+
+### Day 5: February 6, 2018
+
+**Today's Progress**: Began Advanced Web Dev online course.
+
+**Thoughts:**: Having trouble finding time to code, network, improve skills, refine online presence, and sleep. Having trouble deciding which tech to learn/focus on at one time!
+
+**Link to work:** I want to learn everything.
