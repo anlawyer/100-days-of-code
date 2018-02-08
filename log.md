@@ -47,3 +47,11 @@
 **Thoughts:**: Having trouble finding time to code, network, improve skills, refine online presence, and sleep. Having trouble deciding which tech to learn/focus on at one time!
 
 **Link to work:** I want to learn everything.
+
+### Day 6: February 7, 2018
+
+**Today's Progress**: React refresher at a Meetup. Learned about making a "hackable" boilerplate for React with Webpack and Babel (as opposed to FB's monsterous create-react-app).
+
+**Thoughts:**: SO MUCH TO LEARN AND DO. I really want to learn and become good at so much about this career/hobby/lifestyle. I have a lot to work on and I will continue to do so until I get where I want to be.
+
+**Link to work:** [Forked Reop](https://github.com/anlawyer/react-webpack-materialui-boilerplate). Ignore the commit messages that aren't mine!
