@@ -54,4 +54,36 @@
 
 **Thoughts:**: SO MUCH TO LEARN AND DO. I really want to learn and become good at so much about this career/hobby/lifestyle. I have a lot to work on and I will continue to do so until I get where I want to be.
 
-**Link to work:** [Forked Reop](https://github.com/anlawyer/react-webpack-materialui-boilerplate). Ignore the commit messages that aren't mine!
+**Link to work:** [Forked Repo](https://github.com/anlawyer/react-webpack-materialui-boilerplate). Ignore the commit messages that aren't mine!
+
+### Day 7: February 8, 2018
+
+**Today's Progress**: Portfolio work.
+
+**Thoughts:**: Ideas.
+
+**Link to work:** [Portfolio GH](https://github.com/anlawyer/portfolio).
+
+### Day 8: February 9, 2018
+
+**Today's Progress**: Portfolio work.
+
+**Thoughts:**: Ideas, mainly.
+
+**Link to work:** [Portfolio GH](https://github.com/anlawyer/portfolio).
+
+### Day 9: February 10, 2018
+
+**Today's Progress**: Portfolio work - timeline idea.
+
+**Thoughts:**: Basic layout completed.
+
+**Link to work:** [Portfolio GH](https://github.com/anlawyer/portfolio).
+
+### Day 10: February 11, 2018
+
+**Today's Progress**: Portfolio work - timeline idea. Much progress today!
+
+**Thoughts:**: Layout coded, much styling to do.
+
+**Link to work:** [Portfolio GH](https://github.com/anlawyer/portfolio).
