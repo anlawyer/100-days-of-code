@@ -87,3 +87,35 @@
 **Thoughts:**: Layout coded, much styling to do.
 
 **Link to work:** [Portfolio GH](https://github.com/anlawyer/portfolio).
+
+### Day 11: February 12, 2018
+
+**Today's Progress**: resume work... not really code
+
+**Thoughts:**: needed to be done.
+
+**Link to work:** [resume](https://drive.google.com/file/d/1r9LkfWoEPR7q1LPKsO3vDnM3mn5lQnSl/view).
+
+### Day 12: February 13, 2018
+
+**Today's Progress**: resume work... not really code
+
+**Thoughts:**: needed to be done.
+
+**Link to work:** [resume](https://drive.google.com/file/d/1r9LkfWoEPR7q1LPKsO3vDnM3mn5lQnSl/view).
+
+### Day 13: February 14, 2018
+
+**Today's Progress**: Nav buttons, individual project pages.
+
+**Thoughts:**: must continue!!!
+
+**Link to work:** [Portfolio GH](https://github.com/anlawyer/portfolio).
+
+### Day 14: February 15, 2018
+
+**Today's Progress**:
+
+**Thoughts:**:
+
+**Link to work:** 
